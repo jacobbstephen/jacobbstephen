@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob B Stephen</h1>
 <h3 align="center">A passionate developer from Kerala, India.</h3>
 
-- 🔭 I’m currently working on **RescueLink**
+- 🔭 I’m currently working on **RescueLink- Project related to Disaster Management**
 
 - 🌱 I’m currently learning **MERN Stack and Machine Learning**
 
